@@ -7,3 +7,4 @@ ADD ./initialisation.sh /initialisation.sh
 RUN bash /initialisation.sh
 
 ENTRYPOINT python3 /script.py
+
